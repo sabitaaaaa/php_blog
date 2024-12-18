@@ -22,7 +22,9 @@
                         <i class="bi bi-plus"></i> Add New
                     </a>
                 </div>
-                <img src="" class="img-thumbnail" alt="...">
+                <div class="rounded-circle bg-light d-flex justify-content-center align-items-center" style="width: 100px; height: 100px;">
+          <i class="bi bi-person-circle" style="font-size: 3rem; color: gray;"></i>
+        </div>
   <div class="mb-1">
   <label for="first name" class="form-label">First Name</label>
   <input type="text" class="form-control" id="formGroupExampleInput" placeholder="First Name">
